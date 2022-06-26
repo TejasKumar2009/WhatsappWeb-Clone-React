@@ -1,0 +1,18 @@
+.login_container{
+   height: 100%;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+.login_whatsapp_image{
+   height: 100px;
+   width: 100px;
+   margin-bottom: 5px;
+}
+
+.login_container h1{
+   margin-bottom: 35px;
+}

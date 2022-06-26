@@ -1,0 +1,43 @@
+.message-me{
+   width: fit-content;
+   min-width: 10rem;
+   max-width: 60%;
+   padding: 11px 11px;
+   padding-bottom: 25px;
+   background-color: #d9fdd3;;
+   margin: 20px;
+   position: relative;
+   align-self: flex-end;
+
+}
+.message-you{
+   width: fit-content;
+   min-width: 10rem;
+   max-width: 60%;
+   padding: 11px 11px;
+   padding-bottom: 25px;
+   background-color: white;
+   margin: 20px;
+   position: relative;
+}
+.senderName{
+position: absolute;
+top: -7px;
+font-weight: bold;
+font-size: small;
+}
+.timestamp{
+   position: absolute;
+   right: 30px;
+   bottom: 2.5px;
+   font-size: small;
+   color: gray;
+}
+
+.ticks{
+   position: absolute;
+   right: 2px;
+   bottom: 2.5px;
+   font-size: large;
+   color: gray;
+}
